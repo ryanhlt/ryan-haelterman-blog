@@ -12,8 +12,11 @@ navbar:
     - icon: fab fa-github
       href: https://github.com/ryanhlt/Ryan-Haelterman-blog
 base_url: https://ryanhlt.github.io/Ryan-Haelterman-blog/
-collection: 
+collections: 
     posts:
-      disqus: ryan-blog
+      disqus: 
+         shortname: "ryan-blog"
+         hidden: false
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
+
