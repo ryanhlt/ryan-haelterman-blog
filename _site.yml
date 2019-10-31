@@ -14,6 +14,6 @@ navbar:
 base_url: https://ryanhlt.github.io/Ryan-Haelterman-blog/
 collection: 
     posts:
-    disqus: ryan-blog
+      disqus: ryan-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
