@@ -1,11 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Malin Pinsky seeks to explain how climate change alters ocean life"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: carolyn gramling
+
+date: 02-10-2019
 categories:
-  - elephant
-  - track
+  - climate
+  - ocean health
 preview: image/where-s-my-elephant.jpg
 output:
   distill::distill_article:
@@ -30,15 +31,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Researchers                  | Malin Pinsky ecologist and evolutionnary biologist                  |
+| Published in?                | 02-10-2019                                                          |
+| General topic?               |  climate                                                            |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
-
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+sicence news
+<https://www.sciencenews.org/article/malin-pinsky-sn-10-scientists-to-watch>
 
 
 
