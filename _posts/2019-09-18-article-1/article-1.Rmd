@@ -24,8 +24,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| the tip             | the pick                       |
+|   scanning          | look for something             |
+|     straying        |     lost                       |
+| temperature gauges  |  thermometer                   |
+| featureless         |     without particularity      |
+|   reports           |    scientific conclusion       |
+|  data               |    informations                |
+|  coral reefs        |   a natural fence of coral     |
+|   mating            |  coupling                      |
+|   staggering        |  a big amount                  |
+|   cod               |  a species of fish             |
+| foundless           |   unlimited                    |
+
+
 
 ## Analysis table 
 
@@ -34,9 +46,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | Malin Pinsky ecologist and evolutionnary biologist                  |
 | Published in?                | 02-10-2019                                                          |
 | General topic?               |  climate                                                            |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Procedure/what was examined? | they go each year at the Philippines's coral reefs , they catalog population of clown fish , they collect data on grow and mating|
+| Conclusions/discovery?       |  evolution can happen quickly when population are pushed really hard and bring genetic changes     |
+| Remaining questions?         | what kind of genetic changes can the climate bring ? |
 
 sicence news
 <https://www.sciencenews.org/article/malin-pinsky-sn-10-scientists-to-watch>
