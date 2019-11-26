@@ -1,0 +1,54 @@
+---
+title: "How climate change is already alterning oceans and ice, and what's come"
+author:
+  - name: Maria Temming
+    url: {https://www.sciencenews.org/article/ipcc-how-climate-change-already-altering-oceans-ice-future}
+date: 09-25-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Polar caps          | large surface of ice           |
+| chalky coral reefs  | natural fense of coral made of limestone         |
+|     upset           |     trouble                    |
+| shrinking           |  contraction                   |
+| meanwhile           |     during this time           |
+|   landmass          |   a continent or other large body of land      |
+|  overall amount     |    global quantity             |
+|  coral reefs        |   a natural fence of coral     |
+|   melting           |  make or become liquefied by heat              |
+|   vanishing ice     |  disappearance                 |
+|   thaw              |  defrost                       |
+| scorch              |   burn                         |
+| algal               |  kind of plant in the sea      |
+|  blooms             |     florescence                |
+| overall             |   global                       |
+|   snail             |  a specie of gastropod         |
+|   flooding          |   inundation                   |
+|  encroaching        |   impinge                      |
+|  IPCC               |   Intergouvernmental Panel on Climate Change |
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |climate experts from IPCC                |
+| Published in?                | 25-09-2019                                                          |
+| General topic?               |  consequence of climate change                                                             |
+| Procedure/what was examined? | they analyse the evolution of the amount of cie in arctic and other place in the world , the acidification of the oceans and the elevation of the ocean|
+| Conclusions/discovery?       |  The Permafrost thaw will cause increase of the rate of carbon in the atmosphere . the marine heat waves will boost the frequency of toxic algal blooms . The warming of ocean will cause the migration of many animals to colder water . The acidification of ocean will make difficult for animal like snail , to build their shells . The elevation of ocean will cause many natural disaster     |
+| Remaining questions?         | What is the evolution of the rate of ice in antarctic|
+
+sicence news
+<https://www.sciencenews.org/article/ipcc-how-climate-change-already-altering-oceans-ice-future>
