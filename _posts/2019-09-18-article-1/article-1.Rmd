@@ -6,7 +6,7 @@ author:
 date: 02-10-2019
 categories:
   - climate
-  - ocean health
+  
 preview: image/where-s-my-elephant.jpg
 output:
   distill::distill_article:

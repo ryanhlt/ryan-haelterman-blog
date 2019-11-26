@@ -5,6 +5,8 @@ author:
   - name: Susan Milius
     url: {https://www.sciencenews.org/article/climate-change-throwing-coral-sex-out-sync}
 date: 13-09-2019
+categories:
+  - ocean health
 output:
   distill::distill_article:
     self_contained: false

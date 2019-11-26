@@ -4,6 +4,8 @@ author:
   - name: Maria Temming
     url: {https://www.sciencenews.org/article/ipcc-how-climate-change-already-altering-oceans-ice-future}
 date: 09-25-2019
+categories:
+  - consequence of global warming
 output:
   distill::distill_article:
     self_contained: false
