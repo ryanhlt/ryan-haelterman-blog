@@ -1,0 +1,51 @@
+---
+title: "climate change could raise the risk of deadly fungal infections in humans"
+description: |
+  A short description of the post.
+author:
+  - name: Aimee Cunningham
+    url: {https://www.sciencenews.org/article/climate-change-could-raise-risk-deadly-fungal-infections-humans}
+date: 26-07-2019
+categories:
+  - consequence of global warming
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Vocabulary 
+
+| words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| fungal disease      | disease caused by a mushroom   |
+| outbreaks           | wave , big increase            |
+|   spared            |     saved                      |
+| arose               |  appear                        |
+| antifungal medications        |medication against fungal disease         |
+|   weakened          |   decrease , enfeenle          |
+|  coaxed             |    force to                    |
+|  wiped out          |   annihilate                   |
+|   fellow            |  similate                      |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |Arturo Casadevall , a teacher at johns hopkins bloomberg school of public health               |
+| Published in?                | 26-07-2019                                                          |
+| General topic?               |  consequence of climate change                                                             |
+| Procedure/what was examined? | they analyse the increase of fungal disease like Candida auris and how the increase of the temperature can promote the evolution of fungal disease |
+| Conclusions/discovery?       |    fungal disease can be tolerant of higher body's temperature because they acclimated to warming in the environement , fungus can be coaxed to grow temperature in a laboratory setting   |
+| Remaining questions?         | Can the immute system acclimate to the increase of fungal disease ?|
+
+sicence news
+<https://www.sciencenews.org/article/climate-change-could-raise-risk-deadly-fungal-infections-humans>
+
+
