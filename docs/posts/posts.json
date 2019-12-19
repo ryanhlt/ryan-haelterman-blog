@@ -12,7 +12,58 @@
     "date": "2019-12-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-12T12:14:59+01:00"
+    "last_modified": "2019-12-12T13:31:24+01:00"
+  },
+  {
+    "path": "posts/2019-11-26-article-3/",
+    "title": "How climate change is already alterning oceans and ice, and what's come",
+    "description": {},
+    "author": [
+      {
+        "name": "Maria Temming",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-25",
+    "categories": [
+      "consequence of global warming"
+    ],
+    "preview": {},
+    "last_modified": "2019-12-19T15:27:51+01:00"
+  },
+  {
+    "path": "posts/2019-10-02-article2/",
+    "title": "climate change may be throwing coral sex out of sync",
+    "description": {},
+    "author": [
+      {
+        "name": "Susan Milius",
+        "url": "https://www.sciencenews.org/article/climate-change-throwing-coral-sex-out-sync"
+      }
+    ],
+    "date": "2019-09-13",
+    "categories": [
+      "ocean health"
+    ],
+    "preview": {},
+    "last_modified": "2019-12-19T15:27:14+01:00"
+  },
+  {
+    "path": "posts/2019-12-12-article-4/",
+    "title": "climate change could raise the risk of deadly fungal infections in humans",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Aimee Cunningham",
+        "url": {}
+      }
+    ],
+    "date": "2019-07-26",
+    "categories": [
+      "consequence of global warming"
+    ],
+    "preview": {},
+    "last_modified": "2019-12-19T15:28:30+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -26,10 +77,9 @@
     ],
     "date": "2019-02-10",
     "categories": [
-      "climate",
-      "ocean health"
+      "climate"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-11-18T18:32:16+01:00"
+    "last_modified": "2019-12-19T15:23:44+01:00"
   }
 ]

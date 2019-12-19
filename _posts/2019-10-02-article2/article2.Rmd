@@ -3,8 +3,8 @@ title: "climate change may be throwing coral sex out of sync"
 
 author:
   - name: Susan Milius
-    url: {https://www.sciencenews.org/article/climate-change-throwing-coral-sex-out-sync}
-date: 13-09-2019
+    url: "https://www.sciencenews.org/article/climate-change-throwing-coral-sex-out-sync"
+date: 09-13-2019
 categories:
   - ocean health
 output:
@@ -50,36 +50,6 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 | Conclusions/discovery?       |  the temperature of the water impact the reporduction and affect the mounth of the synchronization , the rising of the temperature causes severely bleach and die to the coral      |
 | Remaining questions?         | Does the overfishing impact the reproduction of coral ? |
 
-sicence news
-<## Vocabulary 
-
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| the tip             | the pick                       |
-|   scanning          | look for something             |
-|     straying        |     lost                       |
-| temperature gauges  |  thermometer                   |
-| featureless         |     without particularity      |
-|   reports           |    scientific conclusion       |
-|  data               |    informations                |
-|  coral reefs        |   a natural fence of coral     |
-|   mating            |  coupling                      |
-|   staggering        |  a big amount                  |
-|   cod               |  a species of fish             |
-| foundless           |   unlimited                    |
-
-
-
-## Analysis table 
-
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Malin Pinsky ecologist and evolutionnary biologist                  |
-| Published in?                | 02-10-2019                                                          |
-| General topic?               |  climate                                                            |
-| Procedure/what was examined? | they go each year at the Philippines's coral reefs , they catalog population of clown fish , they collect data on grow and mating|
-| Conclusions/discovery?       |  evolution can happen quickly when population are pushed really hard and bring genetic changes     |
-| Remaining questions?         | what kind of genetic changes can the climate bring ? |
 
 sicence news
 <https://www.sciencenews.org/article/malin-pinsky-sn-10-scientists-to-watch>
