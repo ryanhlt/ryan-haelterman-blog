@@ -4,14 +4,15 @@ description: |
   A short description of the post.
 author:
   - name: Aimee Cunningham
-    url: {https://www.sciencenews.org/article/climate-change-could-raise-risk-deadly-fungal-infections-humans}
-date: 26-07-2019
+    #url: {https://www.sciencenews.org/article/climate-change-could-raise-risk-deadly-fungal-infections-humans}
+date: 07-26-2019
 categories:
-  - consequence of global warming
+  - "consequence of global warming"
 output:
   distill::distill_article:
     self_contained: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

@@ -2,11 +2,9 @@
 title: "Malin Pinsky seeks to explain how climate change alters ocean life"
 author:
   - name: carolyn gramling
-
 date: 02-10-2019
 categories:
   - climate
-  
 preview: image/where-s-my-elephant.jpg
 output:
   distill::distill_article:
