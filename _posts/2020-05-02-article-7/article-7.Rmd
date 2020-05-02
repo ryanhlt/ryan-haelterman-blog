@@ -1,11 +1,11 @@
 ---
-title: "article-7"
+title: "Australia’s wildfires have now been linked to climate change"
 description: |
   A short description of the post.
 author:
   - name: carolyn gramling
-    url: {}
-date: 05-02-2020
+    url: {https://www.sciencenews.org/article/australia-wildfires-climate-change}
+date: 04-03-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -16,6 +16,34 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Distill is a publication format for scientific and technical writing, native to the web.
+## Vocabulary 
+
+|words from the text  | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| linked              | due to                         |
+| occur               | happen                         |
+|   findings          |     results                    |
+| recovery            |  recuperation                  |
+| assessing           |  evaluate                      |
+|  consortium         |   an association               |
+|  index              |   inducation                   |
+|  turnaround         |   reversal                     |
+|   severity          |   seriousness                  |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |   geert jan van oldenborgh a climate scientist , world weather , a group of scientist          |
+| Published in?                | 04-03-2020                                                          |
+| General topic?               |  consequence of climate change                                                             |
+| Procedure/what was examined? | they examined how climate change altered fire weather index , they make climate simulation for see how will increase the number of fire  |
+| Conclusions/discovery?       |   high fire index increased by at least 30 percent from 1919 to now   |
+| Remaining questions?         |  |
+
+sicence news
+<https://www.sciencenews.org/article/australia-wildfires-climate-change>
+
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
