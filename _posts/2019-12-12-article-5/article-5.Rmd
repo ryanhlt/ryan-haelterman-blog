@@ -4,7 +4,7 @@ description: |
   A short description of the post.
 author:
   - name: carolyn gramling
-    url: {https://www.sciencenews.org/article/climate-change-speeding-up-ocean-circulation}
+    
 date: 05-02-2020
 output:
   distill::distill_article:
