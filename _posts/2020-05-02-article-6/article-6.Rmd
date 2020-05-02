@@ -4,7 +4,7 @@ description: |
   A short description of the post.
 author:
   - name: aimee cunningham
-    url: {}
+    url: {https://www.sciencenews.org/article/global-warming-heat-related-deaths}
 date: 05-06-2019
 output:
   distill::distill_article:
@@ -42,7 +42,7 @@ Distill is a publication format for scientific and technical writing, native to 
 | Remaining questions?         |  |
 
 sicence news
-<https://www.sciencenews.org/article/climate-change-speeding-up-ocean-circulation>
+<https://www.sciencenews.org/article/global-warming-heat-related-deaths>
 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
