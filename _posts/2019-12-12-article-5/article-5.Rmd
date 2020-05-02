@@ -1,11 +1,11 @@
 ---
-title: "article-5"
+title: "climate change may be speeding up ocean circulation"
 description: |
   A short description of the post.
 author:
   - name: carolyn gramling
-    url: {}
-date: 12-12-2019
+    url: {https://www.sciencenews.org/article/climate-change-speeding-up-ocean-circulation}
+date: 05-02-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -16,6 +16,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Distill is a publication format for scientific and technical writing, native to the web.
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Vocabulary 
+
+| words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| picking up          | increase , rise                |
+| swirl               | whirlpool                      |
+|   sped-up           |     become faster              |
+| prevailing wind     |  major wind                    |
+| overturning         |  reverse                       |
+|   global stilling   |   global stop                  |
+|  culprit            |    guilty                      |
+|  leading            |   main                         |
+|   fellow            |  similate                      |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | researchers from science advance , shijian hu an oceanographer , david thornaley a paleoceanographer              |
+| Published in?                | 05-02-2020                                                          |
+| General topic?               |  consequence of climate change                                                             |
+| Procedure/what was examined? | they analyse the kynetic energy of the ocean  with float and satellite|
+| Conclusions/discovery?       |    global warming and green house gas emissions increase can make faster the wind and the currents of the oceans   |
+| Remaining questions?         |  |
+
+sicence news
+<https://www.sciencenews.org/article/climate-change-speeding-up-ocean-circulation>
+
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
