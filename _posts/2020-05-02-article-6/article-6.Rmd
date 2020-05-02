@@ -4,7 +4,7 @@ description: |
   A short description of the post.
 author:
   - name: aimee cunningham
-    url: {https://www.sciencenews.org/article/global-warming-heat-related-deaths}
+   
 date: 05-06-2019
 output:
   distill::distill_article:
