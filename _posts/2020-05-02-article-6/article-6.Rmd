@@ -1,0 +1,49 @@
+---
+title: "limiting global warming to 1.5 degrees could prevent thousands of deaths in the U.S"
+description: |
+  A short description of the post.
+author:
+  - name: aimee cunningham
+    url: {}
+date: 05-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+## Vocabulary 
+
+|words from the text  | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| stringent           | strict                         |
+| pledged             | promise                        |
+|   curb              |     slow                       |
+| heat-related        |  due to the heat               |
+| holding             |  maintain                      |
+|  drought            |   dryness                      |
+|  heat stroke        |    failure of the body's temperature-regulating mechanism                 |
+|  laborers           |   peaple who work outside                   |
+|   low-income        |   low monthly pay                     |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |   reaserchers frome science advance , David Hondula a climatologist , Eunice Lo a climate scientist           |
+| Published in?                | 05-06-2020                                                          |
+| General topic?               |  consequence of climate change                                                             |
+| Procedure/what was examined? | they analyse data of mortality and tempereture from 1987 to 2000 for 15 U.S cities |
+| Conclusions/discovery?       |    global warming can increase heat stroke , especially for peaple with low incime and laborers  |
+| Remaining questions?         |  |
+
+sicence news
+<https://www.sciencenews.org/article/climate-change-speeding-up-ocean-circulation>
+
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
