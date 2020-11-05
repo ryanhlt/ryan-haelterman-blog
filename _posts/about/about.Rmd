@@ -1,0 +1,25 @@
+---
+title: "about Me"
+description: |
+  A short description of the post.
+author:
+  - name: carolyn gramling
+    url: {}
+date: 11-05-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+This section also must include: 
+
+- first ryan/haelterman, Philippe Grosjean, Bac 2 bio and 2019-2020
+
+

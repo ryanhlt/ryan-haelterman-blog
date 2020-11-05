@@ -7,8 +7,8 @@ navbar:
       href: index.html
     - text: "Miscellaneous"
       href: english-activity.html
-    - text: "About"
-      href: about.html
+    - text: "About Me"
+      href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/ryanhlt/Ryan-Haelterman-blog
 base_url: https://ryanhlt.github.io/Ryan-Haelterman-blog/
